@@ -1,6 +1,6 @@
 # Upside down LEDs
 
-<img align="right" src="../_common/PlaceholderImage.png">
+<img align="right" src="./PlaceholderImage.png">
 
 .....
 
